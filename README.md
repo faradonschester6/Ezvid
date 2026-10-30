@@ -208,4 +208,4 @@ ezvid is available as a full free version with all features and updates included
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-30 02:18:42 UTC
+**Last updated:** 2026-10-30 09:24:01 UTC
